@@ -2,7 +2,7 @@
 
 ### Day 3: May 6th, 2020
 
-**Today's Progress**: 4-5 hours of coding & videos today 
+**Today's Progress**: 4-5 hours of coding & videos today. Learned about eventListeners and working more with the DOM. There's a good exercise I'm going to start with tomorrow about changing the background color of the site based on where the mouse is.  
 
 **Thoughts:** Much better day today than yesterday but still short of the 6-8 hours I'm going for. Tomorrow I'll be getting up early to start on coding first thing. I'm hoping getting going early instead of planning on going late will help me keep things going. Getting momentum going in the morning should help. 
 
