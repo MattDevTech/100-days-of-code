@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 11: May 14th, 2020
+
+**Today's Progress**: 3.5 hours of coding. Base meme generator working
+
+**Thoughts:** I haven't logged in a while but I have coded for at least an hour every day. I posted several days on twitter even when I didn't log them here. The past several days I've spent my time working on the meme generator assessment for Springboard. It started off fine and I had the JS logic working relatively easily. Getting the CSS to work correctly though was a nightmare. Finally I learned that the reason I couldn't get the text to overlay on top of the image properly is because to get an element to use position: absolute the parent element must have a position on it as well(it can't just be static). If the parent element doesn't have a position on it then the child will base the absolute positioning on the first parent element it can find that has a position. Even if it has to go all the way to the top HTML element. Once I had that figured out it was pretty easy. I'm 6 hours into it and I still need to really work on the design of the page so it looks good but all the functionality is there now. 
+
+**Link to work:** https://github.com/MattDevTech/Springboard-Code
+
 ### Day 4: May 7th, 2020
 
 **Today's Progress**: 2sh hours of coding & videos today.   
